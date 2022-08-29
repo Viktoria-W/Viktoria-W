@@ -1,4 +1,4 @@
-<h1 align="center">Привет я <a href="https://viktoria-w.github.io/portfolio/" target="_blank">Виктория</a> 
+<h1>Привет я <a href="https://viktoria-w.github.io/portfolio/" target="_blank">Виктория</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий frontend-разработчик</h3>
 <h2>Обо мне</h2>
@@ -45,5 +45,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoria-W)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github.com/Viktoria-W/vinil/blob/master/README.md)](https://github.com/Viktoria-W/vinil)
