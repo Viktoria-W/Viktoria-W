@@ -1,7 +1,7 @@
 <h1>Привет я <a href="https://viktoria-w.github.io/portfolio/" target="_blank">Виктория</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Начинающий frontend-разработчик</h2>
-<h2>Обо мне</h2>
+<p>Начинающий frontend-разработчик</p>
+<h3>Обо мне</h3>
 
 * :scroll: Я верстаю лендинги, разрабатываю мини игры, и работаю над повышением своих навыков.
 
