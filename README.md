@@ -12,7 +12,7 @@
 
 <h3>Навыки</h3>
 
-<table align="center">
+<table>
 	<tbody align="center">
 		<tr>
 			<td>HTML5<br>(Продвинутый)</td>
