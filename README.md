@@ -1,6 +1,6 @@
 <h1>Привет я <a href="https://viktoria-w.github.io/portfolio/" target="_blank">Виктория</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий frontend-разработчик</h3>
+<h2>Начинающий frontend-разработчик</h2>
 <h2>Обо мне</h2>
 
 * :scroll: Я верстаю лендинги, разрабатываю мини игры, и работаю над повышением своих навыков.
@@ -10,7 +10,7 @@
 * :minidisc: Нахожусь в поисках стажировки.
 
 
-<h2>Навыки</h2>
+<h3>Навыки</h3>
 
 <table align="center">
 	<tbody align="center">
@@ -34,14 +34,14 @@
 </table>
 
 
-<h2>Курсы</h2>
+<h3>Курсы</h3>
 
 * HTML Academy: HTML & CSS Professional Website Coding
 
 * LearnJS: JavaScript/DOM/Интерфейсы
 
 
-<h2>Статистика языков</h2>
+<h3>Статистика языков</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoria-W)](https://github.com/anuraghazra/github-readme-stats)
 
