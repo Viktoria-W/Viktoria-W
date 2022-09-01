@@ -1,5 +1,5 @@
 <h1>Привет я <a href="https://viktoria-w.github.io/portfolio/" target="_blank">Виктория</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="40"/></h1>
 <p>Начинающий frontend-разработчик</p>
 <h3>Обо мне</h3>
 
